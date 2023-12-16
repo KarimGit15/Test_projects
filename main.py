@@ -23,7 +23,7 @@ def show_lose():
 
 
 
-main_win.setWindowTitle("Испытай удачу !")
+main_win.setWindowTitle("Испытай удачу, приятель!")
 
 v_line = QVBoxLayout()
 layoutH1 = QHBoxLayout()
